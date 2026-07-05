@@ -1,4 +1,4 @@
-# Hi, I'm Hoa Minh Khoi 👋
+# I'm Hoa Minh Khoi 
 
 Final-year Finance student interested in **Quantitative Research**, **Trading Analytics**, and **Financial Data Science**.
 
@@ -31,9 +31,7 @@ Portfolio Optimization • VaR • Expected Shortfall • Monte Carlo Simulation
 - Monte Carlo Simulation for Investment Risk Analysis
 
 ## Contact
-
-- LinkedIn: *(thêm link của bạn)*
-- Email: *(email của bạn)*## Hi there 👋
+email: minhkhoihoant@gmail.com
 
 <!--
 **HMK05/HMK05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
